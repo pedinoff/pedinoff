@@ -1,13 +1,13 @@
-# Hi 👋, I'm Rebecca Pedinoff
-### Data Scientist and Cognitive Scientist
+# Hi, I'm Rebecca Pedinoff! 👋 🦩 💡 ☕ 🎶
+### Data Scientist & Cognitive Scientist
 
 - 🔭 I’m currently working on [Predicting Brain Cancer Using Machine Learning](https://brainproteomicspredict.streamlit.app/)
 
-- 🌱 I’m currently learning **Data Science at the Le Wagon Bootcamp in Berlin**
+- 🌱 I’m currently learning **Data Science at the Le Wagon Bootcamp in Berlin** 
 
 - 🤝 I’m looking for help with **finding a new project!**
 
-- 💬 Ask me about **brains**
+- 💬 Ask me about **brains** 🧠
 
 - 📫 How to reach me **pedinoff@gmail.com**
 
