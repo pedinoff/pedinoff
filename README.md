@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Predicting Brain Cancer Using Machine Learning](https://brainproteomicspredict.streamlit.app/)
 
-- 🌱 I’m currently learning **Data Science at the Le Wagon Bootcamp in Berlin** 
+- 🌱 I just completed a course on **Data Science at the Le Wagon Bootcamp in Berlin** 
 
 - 🤝 I’m looking for help with **finding a new project!**
 
